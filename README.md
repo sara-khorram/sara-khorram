@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara-khorram&label=Profile%20views&color=0e75b6&style=flat" alt="sara-khorram" /> </p>
 
 - 🔭 I’m currently working at **Publicis Collective** interested in all things Python and Data Science!
-
 - 🌱 I’m currently learning **Gen AI and AWS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sara-khorram](https://github.com/sara-khorram)
-
 - 📝 I regularly write articles on [https://medium.com/@sara.khorram](https://medium.com/@sara.khorram)
 
 <h3 align="left">Connect with me:</h3>
